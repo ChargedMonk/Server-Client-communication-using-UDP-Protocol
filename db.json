@@ -1,0 +1,152 @@
+{
+  "Administration": {
+    "Director": {
+      "Manoj S. Gaur": {
+        "Email": "manoj.gaur@iitjammu.ac.in",
+        "Phone no": "9000000001"
+      }
+    },
+    "Registrar (Administration)": {
+      "Col Sanjay Kumar Dahiya": {
+        "Email": "registrar@iitjammu.ac.in",
+        "Phone no": "9000000002"
+      }
+    },
+    "Deans": {
+      "Dean (IPM)": {
+        "Ashok K. Ahuja": {
+          "Email": "dean.infra@iitjammu.ac.in",
+          "Phone no": "9000000003"
+        }
+      },
+      "Dean (Continuing Education, Outreach Programs and Corporate Affairs)": {
+        "Anish": {
+          "Email": "dean.contedu@iitjammu.ac.in",
+          "Phone no": "9000000004"
+        }
+      },
+      "Dean (Academic Affairs)": {
+        "Ashoke K Sarkar": {
+          "Email": "dean.acad@iitjammu.ac.in",
+          "Phone no": "9000000005"
+        }
+      },
+      "Dean (Faculty Affairs)": {
+        "Devesh C. Jinwala": {
+          "Email": "dean.fa@iitjammu.ac.in",
+          "Phone no": "9000000006"
+        }
+      },
+      "Dean (Students Welfare)": {
+        "Dinesh K. Pandya": {
+          "Email": "dean.sw@iitjammu.ac.in",
+          "Phone no": "9000000007"
+        }
+      },
+      "Dean (Administration, Operations and Budget, Finance and HEFA)": {
+        "Kannan Iyer": {
+          "Email": "dean.finance@iitjammu.ac.in",
+          "Phone no": "9000000008"
+        }
+      },
+      "Dean ( R&C and International Relations)": {
+        "Pallippattu K V": {
+          "Email": "dean.rnc@iitjammu.ac.in",
+          "Phone no": "9000000009"
+        }
+      }
+    },
+    "Deputy Directors": {
+      "Deputy Director (Strategy and International Affairs)": {
+        "S. K. Koul": {
+          "Email": "skkoul@care.iitd.ernet.in",
+          "Phone no": "9000000015"
+        }
+      },
+      "Deputy Director (Operations and Infrastructure)": {
+        "S. N. Singh": {
+          "Email": "sns@am.iitd.ac.in",
+          "Phone no": "9000000016"
+        }
+      }
+    },
+    "Associate Deans": {
+      "Associate Dean (IPM)": {
+        "Ankit Kathuria": {
+          "Email": "ankit.kathuria@iitjammu.ac.in",
+          "Phone no": "90000000017"
+        }
+      },
+      "Associate Dean (Hostel Affairs)": {
+        "Anup Shukla": {
+          "Email": "ad.ha@iitjammu.ac.in",
+          "Phone no": "9000000018"
+        }
+      },
+      "Associate Dean (Academic Affairs (PG))": {
+        "Badri N Subudhi": {
+          "Email": "adpg.acad@iitjammu.ac.in",
+          "Phone no": "9000000019"
+        }
+      },
+      "Associate Dean (Academic Affairs (UG))": {
+        "Goutam Dutta": {
+          "Email": "adug.acad@iitjammu.ac.in",
+          "Phone no": "9000000020"
+        }
+      },
+      "Associate Dean (Faculty Affairs (Engineering))": {
+        "R.T. Durai Prabhakaran": {
+          "Email": "ad.fwe@iitjammu.ac.in",
+          "Phone no": "9000000021"
+        }
+      },
+      "Associate Dean (Faculty Affairs (Science and HSS))": {
+        "Sartaj Ul Hasan": {
+          "Email": "ad.fws@iitjammu.ac.in",
+          "Phone no": "9000000022"
+        }
+      },
+      "Associate Dean (Student Affairs)": {
+        "Vijay Kumar Pal": {
+          "Email": "ad.finswance@iitjammu.ac.in",
+          "Phone no": "900000024"
+        }
+      },
+      "Associate Dean ( R&C and International Relations)": {
+        "Surendra Beniwal": {
+          "Email": "surendra.beniwal@iitjammu.ac.in",
+          "Phone no": "9000000025"
+        }
+      }
+    }
+  },
+  "Academics": {
+    "Academic Section": {
+      "Email": "acad@iitjammu.ac.in",
+      "Phone no": "9000000010"
+    },
+    "Registrar (Academic)": {
+      "Sqn. Ldr. Manish Pokhriyal": {
+        "Email": "manish.pokhriyal@iitjammu.ac.in",
+        "Phone no": "9000000011"
+      }
+    },
+    "Junior Superintendent": {
+      "Ripul Vaid": {
+        "Email": "ripul.vaid@iitjammu.ac.in",
+        "Phone no": "9000000012"
+      }
+    },
+    "Junior Assistant": {
+      "Abhishek": {
+        "Email": "abhishek.abhishek@iitjammu.ac.in",
+        "Phone no": "9000000013"
+      },
+      "Kritika Handoo": {
+        "Email": "kritika.handoo@iitjammu.ac.in",
+        "Phone no": "9000000014"
+      }
+    }
+  }
+}
