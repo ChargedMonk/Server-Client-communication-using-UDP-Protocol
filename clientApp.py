@@ -23,9 +23,10 @@ def main(access,username):
             if person=='':
                 continue
             person = person.split('~')
+            print("person =",person)
             card.add('FN').value = person[1]
             card.add('Email').value = person[2]
-            if access == '1':
+            if access == 1:
                 card.add('Tel').value = person[3]
             org = person[0].split('.')
             print(org)
@@ -38,8 +39,8 @@ def main(access,username):
             card.useBegin = True
             card.serialize()
             card.prettyPrint()
-            # with open(name+'.vcf','w') as file:
-                # file.write(card.serialize())
+            with open(person[1]+'.vcf','w') as file:
+                file.write(card.serialize())
 
     def export():
         createContact(findPeople(organizationHeirarchy,""))
@@ -118,7 +119,12 @@ def main(access,username):
 
     # Access Level Label
     if access:
-        accessLevel = username[:username.index('@')] + "\nAccess: Full"
+        if not 'admin' in username:
+            accessLevel = username[:username.index('@')] + "\nAccess: Full"
+        elif not '@' in username:
+            accessLevel = username +"\nAccess: Full"
+        else:
+            accessLevel = "Administrator\nAccess: Full"
         fg = "#188C48"
     else:
         accessLevel = "Guest\nAccess: Limited"

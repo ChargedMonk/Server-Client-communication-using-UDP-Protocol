@@ -20,13 +20,9 @@ def serverReply(query,flag=1):
     result.clear()
     if flag == 2:
         resolveQuery(organizationHeirarchy,query.lower())
-        # print("sending infodict\n ### result =",result,"\n\n-----\n\n")
-        # print("sending infodict\n ### organizationHeirarchy =",organizationHeirarchy,"\n\n-----\n\n")
         return str(delConfInfo(result))
     else:
         resolveQuery(organizationHeirarchy,query.lower())
-        # print("result with phone no\n ***result =",result,"\n\n-----\n\n")
-        # print("sending infodict\n ### organizationHeirarchy =",organizationHeirarchy,"\n\n-----\n\n")
         return str(result)
 
 

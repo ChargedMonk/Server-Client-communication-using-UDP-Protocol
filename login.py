@@ -34,9 +34,9 @@ def main():
         # print("paste value =",val)
         val = val.split(":")
         try:
-            sender_email = "<Your Email>"
+            sender_email = "<email id>"
             receiver_email = username
-            pwd = "*********" # INPUT PASSWORD OF SENDER MAIL ID HERE
+            pwd = "*******"
             message = MIMEMultipart()
             message["Subject"] = "Username & Password for IIT Jammu Office Contact DB Access"
             message["From"] = sender_email
